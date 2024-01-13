@@ -1,0 +1,19 @@
+{
+  "name": "ejercicios-react",
+  "version": "1.0.0",
+  "description": "ejercicios React",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "npm",
+    "ejercicios",
+    "React"
+  ],
+  "author": "Senay",
+  "license": "ISC",
+  "dependencies": {
+    "react": "^18.2.0"
+  }
+}
